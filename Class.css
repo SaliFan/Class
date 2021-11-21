@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(189, 189, 189);
+    margin-left: 35px;
+}
+
+a{
+  
+    color: rgb(0, 180, 0);
+
+}
+
+input{
+
+    height: 15px;
+    width: 150px;
+
+}
+
+.interface{
+
+    display: flex;
+
+}
+
+input{
+   
+    margin-left: 10px;
+    margin-top: 22px;
+
+}
+
+.list-item{
+
+    color: blue;
+
+}
+
+.green{
+
+    color: rgb(0, 180, 0);
+
+}
+
+
+h3{
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
